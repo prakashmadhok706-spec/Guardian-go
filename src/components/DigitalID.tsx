@@ -89,7 +89,7 @@ const DigitalID = () => {
                                     </div>
                                     <div>
                                         <h4 className="text-xl font-bold text-white">
-                                            Nitin Sharma
+                                            Prakash Madhok
                                         </h4>
                                         <p className="text-sm text-white/70">
                                             Tourist ID: GG2025-IN-4521

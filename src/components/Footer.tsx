@@ -156,19 +156,7 @@ const Footer = () => {
           className="py-6 border-t border-white/10"
         >
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
-            <div className="glass-dark px-6 py-3 rounded-full">
-              <p className="text-sm text-white/70">
-                <span className="text-white font-semibold">Live Deployment: </span>
-                <a
-                  href="#"
-                  className="text-secondary hover:underline"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  guardiango.lovable.app
-                </a>
-              </p>
-            </div>
+           
             <div className="flex items-center gap-2 text-xs text-white/60">
               <div className="w-2 h-2 rounded-full bg-accent animate-pulse" />
               <span>System Status: All Services Operational</span>
